@@ -2,6 +2,10 @@
     "folders": [
         {
             "path": "."
+        },
+        {
+            "name": "sample_repo_ytake-4",
+            "path": "../sample_repo_ytake-4"
         }
     ]
 }
